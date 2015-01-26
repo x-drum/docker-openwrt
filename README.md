@@ -1,2 +1,2 @@
-# docker-openwrt
-basic OpenWrt x86 image
+# xdrum/docker-openwrt
+A basic OpenWrt x86 image
